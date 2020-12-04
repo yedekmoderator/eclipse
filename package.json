@@ -1,0 +1,16 @@
+{
+  "name": "welcome",
+  "version": "0.0.2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.0",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
