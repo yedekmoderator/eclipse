@@ -1,14 +1,16 @@
 {
-  "name": "welcome",
-  "version": "0.0.2",
+  "name": "eclipse",
+  "version": "0.0.3",
   "main": "server.js",
   "scripts": {
     "start": "node ."
   },
   "dependencies": {
-    "express": "^4.17.1",
     "discord.js": "^12.5.0",
-    "moment": "^2.29.1"
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "moment": "^2.29.1",
+    "random-puppy": "^1.1.0"
   },
   "engines": {
     "node": "12.x"
